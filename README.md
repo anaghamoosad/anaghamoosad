@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anaghamoosad
+- 👋 Hi, I’m Anagha Radhakrishnan Moosad @anaghamoosad
 - 👀 I’m interested in Machine Learning , Deep Learning ,Natural Language Processing  and Software Engineering 
 - 🌱 I’m currently learning  Deep Learning and Web Develpement
 - 💞️ I’m looking to collaborate on Open Source Projects
